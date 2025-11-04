@@ -1,4 +1,4 @@
-[Untitled Diagram.drawio.html](https://github.com/user-attachments/files/23322757/Untitled.Diagram.drawio.html)# Project Overview 
+# Project Overview 
 This project documents my journey in building a Cloud SOC using Microsoft Sentinel. It showcases how I leverage KQL queries within Microsoft Sentinel and other Microsoft security tools to monitor, detect, and investigate threats.
 
 The goal of this project is to gain hands-on experience in modern cloud SOC operations from environment setup to incident investigation and response with a focus on phishing analysis, threat detection, and incident reporting.
